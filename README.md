@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @powbox
-- 👀 I’m interested in testing github
+- 👀 I’m interested in testing github and git
 
 <!---
 powbox/powbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
